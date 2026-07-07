@@ -1,0 +1,26 @@
+{
+  "processed": 36000,
+  "errors": 0,
+  "metrics": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 7950,
+    "tn": 28050,
+    "fp": 0,
+    "fn": 0
+  },
+  "latency_ms": {
+    "mean": 0.008618436150653806,
+    "p99": 0.014199991710484028
+  },
+  "memory_mb": {
+    "current": 1.175216,
+    "peak": 1.175683
+  },
+  "elapsed_seconds": 0.3645539000281133,
+  "collapse_check": {
+    "passed": true,
+    "criteria": "errors == 0"
+  }
+}
